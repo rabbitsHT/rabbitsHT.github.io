@@ -1,6 +1,7 @@
 # Site settings
-title: HT's blog
-description: Hello Hello
+local: 'ko-KR'
+title: rabbitsHT
+description: rabbitsHT Github blog's
 keywords: Modern, Blogging, Fun
 author: Wferr
 baseurl: "https://rabbitsht.github.io/" # the subpath of your site, e.g. /blog/

@@ -1,7 +1,7 @@
 ---
 title:  "Planes are cool!"
 subtitle: "The Fly!"
-author: "ht"
+author: "2"
 avatar: "img/authors/2.png"
 image: "img/ht.jpg"
 date:   20230401

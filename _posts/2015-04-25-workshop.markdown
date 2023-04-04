@@ -1,6 +1,6 @@
 ---
-title:  "A Craftsman Workshop"
-subtitle: "It's always a bit messy"
+title:  "Career"
+subtitle: "pesonal history"
 author: "hr"
 avatar: "img/authors/hr.jpg"
 image: "img/ht.jpg"

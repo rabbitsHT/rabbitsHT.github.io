@@ -1,6 +1,6 @@
 ---
-title:  "Nobody else was around."
-subtitle: "A Beautiful shot during the night."
+title:  "Project4."
+subtitle: "Android studio를 이용한 날씨 앱작업."
 author: "rabbit"
 avatar: "img/authors/rabbit.png"
 image: "img/ht.jpg"

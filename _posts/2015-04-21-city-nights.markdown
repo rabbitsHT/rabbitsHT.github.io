@@ -1,6 +1,6 @@
 ---
-title:  "Nobody else was around."
-subtitle: "A Beautiful shot during the night."
+title:  "Poject3"
+subtitle: "GITHUB를 이용한 블로그작업"
 author: "Wferr"
 avatar: "img/authors/wferr.png"
 image: "img/b.jpg"

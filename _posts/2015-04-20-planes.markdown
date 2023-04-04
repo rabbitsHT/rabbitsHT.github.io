@@ -2,7 +2,7 @@
 title:  "Career & Personal history"
 [Uploading image.png…]()
 
-subtitle: "The Fly!"
+subtitle: 'The Fly!'
 author: "a"
 avatar: "img/authors/a.png"
 image: "img/ht.jpg"

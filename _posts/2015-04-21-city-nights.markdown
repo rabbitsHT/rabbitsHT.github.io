@@ -1,9 +1,9 @@
 ---
 title:  "Poject3"
-subtitle: "GITHUB를 이용한 블로그작업"
+subtitle: "Bootstrap을 이용한 페이지작업"
 author: "Wferr"
 avatar: "img/authors/wferr.png"
-image: "img/b.jpg"
+image: "img/mysite.jpg"
 date:   2015-04-21 12:12:12
 ---
 

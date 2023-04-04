@@ -3,7 +3,7 @@ title:  "Project4."
 subtitle: "Android studio를 이용한 날씨 앱작업."
 author: "rabbit"
 avatar: "img/authors/rabbit.png"
-image: "img/sky.jpg"
+image: "img/sky2.jpg"
 date:   2015-04-21 12:12:12
 ---
 

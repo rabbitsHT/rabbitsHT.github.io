@@ -3,7 +3,7 @@ title:  "Issues"
 subtitle: "Vision & Business"
 author: "Wferr"
 avatar: "img/authors/wferr.png"
-image: "img/hr.jpg"
+image: "img/a.jpg"
 date:   2015-04-24 12:12:12
 ---
 

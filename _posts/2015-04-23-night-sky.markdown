@@ -3,7 +3,7 @@ title:  "Project1"
 subtitle: "Html,css를 이용한 게시판작업"
 author: "Wferr"
 avatar: "img/authors/wferr.png"
-image: "img/d.jpg"
+image: "img/cafe.jpg"
 date:   2023-03-03 12:12:12
 ---
 

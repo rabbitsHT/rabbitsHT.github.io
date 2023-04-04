@@ -1,5 +1,7 @@
 ---
-title:  "Planes are cool!"
+title:  "Career & Personal history"
+[Uploading image.png…]()
+"
 subtitle: "The Fly!"
 author: "a"
 avatar: "img/authors/a.png"

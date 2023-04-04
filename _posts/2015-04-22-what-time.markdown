@@ -3,7 +3,7 @@ title:  "Project2"
 subtitle: "javascrip를 활용한 쇼핑몰작업"
 author: "Wferr"
 avatar: "img/authors/wferr.png"
-image: "img/c.jpg"
+image: "img/shop.jpg"
 date:   2023-03-03 12:12:12
 ---
 
